@@ -1,0 +1,1442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explication of the following direction for the reading of the Bible over in a yeare with an exhortation to the necessary use and practice thereof.</title>
+            <author>Sanderson, Randall.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61717</idno>
+            <idno type="STC">Wing S579</idno>
+            <idno type="STC">ESTC R11956</idno>
+            <idno type="EEBO-CITATION">12591549</idno>
+            <idno type="OCLC">ocm 12591549</idno>
+            <idno type="VID">63954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 332:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explication of the following direction for the reading of the Bible over in a yeare with an exhortation to the necessary use and practice thereof.</title>
+                  <author>Sanderson, Randall.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.L.,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>An odd and rare little piece, the only known copy of which is in the Bodleian Library. [The author's] idea is that three chapters of the Bible should be read each day, at morning, noon and night ... The table deals with every day of the year, but Feb. 29 is left to the 'discretion and piety' of the reader. Cf. Madan.</note>
+                  <note>Signed: Randall Sanderson.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Study and teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="explication_and_exhortation">
+            <pb facs="tcp:63954:1" rendition="simple:additions"/>
+            <pb facs="tcp:63954:1" rendition="simple:additions"/>
+            <head>AN EXPLICATION Of the following DIRECTION For the reading of the BIBLE over in a yeare. With an EXHORTATION to the ne<g ref="char:EOLhyphen"/>ceſſary Vſe and Practice thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſcope of this <hi>Direction</hi> is, to guide thee in the <hi>Annuall</hi> reading of the holy Scrip<g ref="char:EOLhyphen"/>tures. The way of it is plain and familiar, becauſe it moſt concernes the weak. Each page hath the figures for the day of the Month ſet in the firſt place, which ſerve for the three Monthes that are in that page. Each dayes taske is three Chapters: two in the old <hi>Teſtament,</hi> and one in the <hi>New,</hi> ſo long as the <hi>New</hi> doth laſt. And this order is conſtant, excepting in the <hi>Pſalmes:</hi> where, becauſe ſome are ſo very ſhort, there is ſometimes two, ſometime more to be taken together at one reading. Only the Hundred-nine<g ref="char:EOLhyphen"/>teenth, becauſe it is too long for one reading, is divided in<g ref="char:EOLhyphen"/>to four Portions: Six parts a peece for the two former, and Five a peece for the two latter: which Portions exceed not the length of an ordinary Chapter.</p>
+            <pb facs="tcp:63954:2"/>
+            <p>As for the day which is <hi>ſupernumerary</hi> in the Leap-yeares (that is, which is above 365.) I rather leave it to thy Diſcretion and Piety how to imploy it to God's glory, and thy owne ſolace, then preſcribe any thing.</p>
+            <p n="2">2. For the time: It is very requiſite to obſerve it ſtrictly; that is, to reade one Chapter in the morning, another at noone, and the third at night: ſo thou ſhalt never want heavenly matter to take up thy thoughts. But, what ever is omitted in the day time, muſt be made out at night. If it ſo fall out, that ſome daies or weekes taske be omit<g ref="char:EOLhyphen"/>ted, (as by ſickneſſe or the like) when thou comeſt to it againe, double the dayly taske till the loſſe be repaired. And whereas the <hi>Lords-day</hi> is here made only equall to other daies, in it's taske and ſervice; thou muſt ever make it a <hi>Feast of Fat things,</hi> by adding to it a <hi>Portion</hi> in ſome <hi>Booke</hi> or other which thy ſoule moſt affecteth: be it <hi>Iſaiah,</hi> or the Epiſtle to the <hi>Romans,</hi> or any of the <hi>Goſpells,</hi> &amp;c. But the <hi>Pſalmes</hi> in this reſpect, may not wholly be omitted; this day being a ſingular day above others, forſinging and rejoyceing.</p>
+            <p n="3">3. For good ſucceſſe, and proficiencie in this holy imployment; pray conſtantly to him that hath the <hi>Key of David,</hi> to unlocke thy <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> and uſe ſuch helpes as the Lord affordeth thee. And when thou <hi>Doubteſt,</hi> faile not to go to the <hi>Maſter of the Aſſembly,</hi> Eccleſ. 12.11. <hi>Seeke the Law at his mouth,</hi> for ſo thou oughteſt to doe, <hi>Malac.</hi> 2.7.</p>
+            <p>To help a bad memory, doe this; read with <hi>Leaſure</hi> and <hi>Intenti<g ref="char:EOLhyphen"/>on; Meditate</hi> with <hi>Delight,</hi> (this feeds the ſoule) <hi>Conferre</hi> with others at all oportunities, eſpecially with thoſe whom God hath ſet <hi>neare</hi> thee, or given thee in <hi>Charge,</hi> as <hi>Pſal.</hi> 34.11. <hi>Deut.</hi> 6.6, 7, 8, 9. &amp; ch. 11.18, 19, 20.</p>
+            <p>Apply the <hi>Promiſes</hi> to thy ſelfe with joy. Conſider the <hi>Threat<g ref="char:EOLhyphen"/>nings</hi> with <hi>Fear</hi> and <hi>Trembling,</hi> Iſaiah, 66.5. Pſal. 119.120. But above all <hi>Helpes,</hi> if thou wouldeſt have thy profiting appeare indeed, whenſoever God hath taught thee any Duty, fall ſtraight way in hand therewith, to <hi>Practice</hi> it thence forward.</p>
+            <p n="4">4. This courſe (if carefully obſerved) will ſpeedily bring thee ac<g ref="char:EOLhyphen"/>quainted with God and his whole <hi>Councell,</hi> revealed in his <hi>Word.</hi> It will informe thee of his good will towards thee, and what great things he hath done for thy ſoule; &amp; likewiſe, what duties he requires at thy hand. It will forewarne thee of all the enemies that <hi>Way-lye</hi> thee: and of their great <hi>wrath, malice, ſubtilties</hi> and <hi>power:</hi> and not only ſo, but (which is all in all) it will furniſh thee with <hi>Wiſedome,</hi> to fore<g ref="char:EOLhyphen"/>ſee,
+<pb facs="tcp:63954:2"/>with <hi>Courage,</hi> to ſtand, and <hi>Power,</hi> to withſtand, and <hi>Armour,</hi> (even <hi>the whole Armour of God,</hi> Epheſ. 6.10,—17.) wherewith to encounter and overcome, the <hi>World,</hi> the <hi>Divell,</hi> and the <hi>Fleſh.</hi> It will informe thee of the endleſſe <hi>Ioyes,</hi> and ineffable <hi>Treaſures</hi> of Heaven, that thou mayeſt cover them carneſtly, and inherit them: and alſo, of the inſupportable <hi>Torments,</hi> and unquenchable <hi>Fire</hi> of <hi>Hell,</hi> to avoyd them. By this thy <hi>Conſcionable Practice,</hi> the work of the <hi>Miniſter</hi> ſhall be more profitable unto thee, and leſſe greivous to him: the <hi>Word</hi> of God ſhall dwell richly in thee; and alſo thou ſhalt be able to render a reaſon of the Faith that is in thee, whereas with<g ref="char:EOLhyphen"/>out this <hi>Diligence,</hi> he that is <hi>Ignorant,</hi> doth often live and dye ſo, even under a <hi>Powerfull Miniſtery.</hi>
+            </p>
+            <p>By this meanes (God bleſſing it to us) Chriſts Kingdome ſhall come into our hearts with <hi>Power,</hi> and his <hi>Scepter</hi> (which is his <hi>word</hi>) will beare <hi>Sway,</hi> and <hi>Rule</hi> in all Private Families amangſt us: even in thoſe Families which hitherto have forgotten the <hi>Name</hi> of their God, and walking on ſtill in <hi>Darkeneſſe,</hi> as without God in the World, <hi>Have counted thoſe great things of God's Law, as a ſtrange thing,</hi> Hoſ. 8.12.</p>
+            <p n="5">5. If theſe <hi>Motives</hi> availe not to winne thee to a likeing of the <hi>Word,</hi> and the <hi>Practiceing</hi> of it; conſider further, what need thou haſt of it, and what it is which thou deſpiſeſt, in rejecting it. Thy heart is as hard as a ſtone in thee, but this <hi>Word</hi> is as <hi>a hammer, that breaketh the Rocke in peices,</hi> Jer. 23.29. It is alſo a ſalve, <hi>to heale and cure a broken and contrite Heart,</hi> Pſal. 107.20. All holy <hi>Zeale</hi> and <hi>Spirituall deſires,</hi> are extinction thee, but this <hi>Word</hi> is a <hi>Fire</hi> to kindle <hi>How Affections</hi> in thee: it is his <hi>Furnace</hi> to purge out the <hi>droſſe</hi> of thy <hi>Naturall Corruptions: Yea it is as water to waſh away unclean<g ref="char:EOLhyphen"/>neſſe,</hi> John, 15.3. In a word, the <hi>Vertues</hi> and <hi>Operations</hi> of it are innumerable: and for it's worth, man cannot utter it. It is <hi>ſtrength<g ref="char:EOLhyphen"/>ving</hi> as <hi>Bread:</hi> quenching thirſt after ſinne, as <hi>Drinke: Chearing</hi> as <hi>Wine: Sweet</hi> as <hi>Honny: Enriching</hi> as <hi>Gold. Quicke</hi> and <hi>Powerfull, ſharper then any two-edged-ſword. It is the Word of God's power,</hi> even <hi>The power of God unto Salvation, to every one that believeth,</hi> Rom. 1.16.</p>
+            <p n="6">6. Vp then and be doing. <hi>Worke out thy ſalvation.</hi> They that ſtand all the day idle, receive no wages: and the ignorant have no promiſe of life: but <hi>they that are wiſe,</hi> that <hi>turne many to righteouſneſſe ſhall ſhine as the Starres for ever and ever The hand of the Diligent maketh rich: but the field of the man voyd of Vnderſtanding, is al
+<pb facs="tcp:63954:3"/>growne over with Thornes. Ignorance of the Scriptures, is the mother of</hi> Error, <hi>Math.</hi> 22.29. leaveing a gappe open to all <hi>Lewdneſſe, Riot,</hi> and <hi>Exorbitancy</hi>
+            </p>
+            <p>Thinkeſt thou to have <hi>Eternall life</hi> in the <hi>Scriptures,</hi> and yet art not acquainted with them? The <hi>Promiſe</hi> is, <hi>Seek and you ſhall finde.</hi> And that thou mayeſt ſeek <hi>Eternall life,</hi> and <hi>Ieſus Chriſt</hi> (the <hi>Author</hi> and giver of <hi>Life,</hi>) where he is to be found he commands thee <hi>to Search the Scriptures, Iohn,</hi> 5.39.</p>
+            <p>To go further yet; our Saviour intimates to us, that the <hi>Iewes</hi> would never have troubled him ſo often with ſleight queſtions, if they had uſed to read the <hi>Scriptures</hi> as diligently as they ought. And when they poſed him, he uſually ſent them to read the <hi>Scriptures</hi> for their anſwer. So <hi>Luke,</hi> 10.26. He returnes one to learne his <hi>Duty, What is written in the Law? How readest thou?</hi> And ſo others of them, <hi>Math.</hi> 12.3. <hi>Have ye not read what David did?</hi> And <hi>verſ.</hi> 5. <hi>Have ye not read in the Law? &amp;c.</hi> So likewiſe <hi>Math.</hi> 21.16.</p>
+            <p>So that the reading of the Holy <hi>Scripture,</hi> is a <hi>Duty</hi> that our Savi<g ref="char:EOLhyphen"/>our preſſed often. And his exhortation (before quoted) <hi>Iohn,</hi> 5.39. is to all. Neither ſhould thy wordly imployments hinder thy per<g ref="char:EOLhyphen"/>formance of this <hi>Duty,</hi> for even the King (though he might plead the greateſt hinderances of any whatſoever, even the weighty affaires of his Kingdom) was not exempted from this dayly taske, the <hi>reading</hi> of the <hi>Word</hi> of God. <hi>Deut.</hi> 17.19.</p>
+            <p>Here is both <hi>Precept</hi> and <hi>Promiſe.</hi> Yea, this <hi>Practiſe</hi> hath a <hi>Bleſſing, Rev.</hi> 1.3. <hi>Bleſſed is he that readeth.</hi> &amp;c.</p>
+            <p n="7">7. And that thou may<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt not be diſcouraged, either through thy <hi>owne incapacity,</hi> or <hi>it's obſcurity;</hi> know, that this courſe of exerciſeing in the <hi>word</hi> of God, is bleſſed with happy ſucceſſe from the firſt medle<g ref="char:EOLhyphen"/>ing with it, and that even to the <hi>Weakeſt,</hi> Pſal. 119.130. <hi>The en<g ref="char:EOLhyphen"/>trance of thy words giveth light: it giveth understanding to the ſimple.</hi> But if after all theſe <hi>Incitements,</hi> thou count thy ſelfe <hi>unworthy</hi> of <hi>eter<g ref="char:EOLhyphen"/>nall Life,</hi> and wilt not lay hold of it; I muſt alſo put thee in minde (e're I leave thee) that where theſe <hi>Bleſſings</hi> take no place, there the <hi>Curſe</hi> enters. When they that ſearch the <hi>Scriptures</hi> finde <hi>Eternall life,</hi> they that neglect them will finde <hi>Eternall Death.</hi> When the <hi>Wiſe</hi> and <hi>Di<g ref="char:EOLhyphen"/>ligent</hi> enter into their <hi>Maiſters Ioy,</hi> the <hi>Slothfall</hi> and <hi>Fooliſh</hi> will be thruſt into <hi>Hell.</hi>
+            </p>
+            <p>Conſider what the <hi>Scripture</hi> ſaith, and the Lord give thee Vnder<g ref="char:EOLhyphen"/>ſtanding in all things. So prayeth</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord,</hi> Randall Sanderſon, F. of Q. C. <hi>Oxon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="lectionary">
+            <pb facs="tcp:63954:3"/>
+            <head>Directions to read The Bible in a year.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>January. A.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>February. D.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>March. D.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Gen. 1,2.</cell>
+                     <cell>Mat. 1.</cell>
+                     <cell>13,14.</cell>
+                     <cell>4.</cell>
+                     <cell>2,3.</cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>3,4.</cell>
+                     <cell>2.</cell>
+                     <cell>15,16.</cell>
+                     <cell>5.</cell>
+                     <cell>4,5.</cell>
+                     <cell>17.</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>5,6.</cell>
+                     <cell>3.</cell>
+                     <cell>17,18.</cell>
+                     <cell>6.</cell>
+                     <cell>6,7.</cell>
+                     <cell>18.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>7,8.</cell>
+                     <cell>4.</cell>
+                     <cell>19,20.</cell>
+                     <cell>7.</cell>
+                     <cell>8,9.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>9,10.</cell>
+                     <cell>5.</cell>
+                     <cell>21,22.</cell>
+                     <cell>8.</cell>
+                     <cell>10,11.</cell>
+                     <cell>20.</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>11,12.</cell>
+                     <cell>6.</cell>
+                     <cell>23,24.</cell>
+                     <cell>9.</cell>
+                     <cell>12,13.</cell>
+                     <cell>21.</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>13,14.</cell>
+                     <cell>7.</cell>
+                     <cell>25,26.</cell>
+                     <cell>10.</cell>
+                     <cell>14,15.</cell>
+                     <cell>22.</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>15,16.</cell>
+                     <cell>8.</cell>
+                     <cell>27,28.</cell>
+                     <cell>11.</cell>
+                     <cell>16,17.</cell>
+                     <cell>23.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>17,18.</cell>
+                     <cell>9.</cell>
+                     <cell>29,30.</cell>
+                     <cell>12.</cell>
+                     <cell>18,19.</cell>
+                     <cell>24.</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>19,20.</cell>
+                     <cell>10.</cell>
+                     <cell>31,32.</cell>
+                     <cell>13.</cell>
+                     <cell>20,21.</cell>
+                     <cell>Iohn, 1.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>21,22.</cell>
+                     <cell>11.</cell>
+                     <cell>33,34.</cell>
+                     <cell>14.</cell>
+                     <cell>22,23.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>23, 24.</cell>
+                     <cell>12.</cell>
+                     <cell>35,36.</cell>
+                     <cell>15.</cell>
+                     <cell>24,25.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>25,26.</cell>
+                     <cell>13.</cell>
+                     <cell>37,38.</cell>
+                     <cell>16.</cell>
+                     <cell>26,27.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>27,28.</cell>
+                     <cell>14.</cell>
+                     <cell>39,40.</cell>
+                     <cell>Luke. 1.</cell>
+                     <cell>28,29.</cell>
+                     <cell>5.</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>29,30.</cell>
+                     <cell>15.</cell>
+                     <cell>Lev. 1,2.</cell>
+                     <cell>2.</cell>
+                     <cell>30,31.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>31,32.</cell>
+                     <cell>16.</cell>
+                     <cell>3,4.</cell>
+                     <cell>3.</cell>
+                     <cell>32,33.</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>33,34.</cell>
+                     <cell>17.</cell>
+                     <cell>5,6.</cell>
+                     <cell>4.</cell>
+                     <cell>34,35.</cell>
+                     <cell>8.</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>35,36.</cell>
+                     <cell>18.</cell>
+                     <cell>7,8.</cell>
+                     <cell>5.</cell>
+                     <cell>36. Deut. 1.</cell>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>37,38.</cell>
+                     <cell>19.</cell>
+                     <cell>9,10.</cell>
+                     <cell>6.</cell>
+                     <cell>2,3.</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>39,40.</cell>
+                     <cell>20.</cell>
+                     <cell>11.12.</cell>
+                     <cell>7.</cell>
+                     <cell>4,5.</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>41,42.</cell>
+                     <cell>21.</cell>
+                     <cell>13,14,</cell>
+                     <cell>8.</cell>
+                     <cell>6,7.</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>43,44.</cell>
+                     <cell>22.</cell>
+                     <cell>15,16.</cell>
+                     <cell>9.</cell>
+                     <cell>8 9.</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>45,46.</cell>
+                     <cell>23.</cell>
+                     <cell>17,18.</cell>
+                     <cell>10.</cell>
+                     <cell>10,11.</cell>
+                     <cell>14.</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>47,48.</cell>
+                     <cell>24.</cell>
+                     <cell>19,20.</cell>
+                     <cell>11.</cell>
+                     <cell>12,13.</cell>
+                     <cell>15.</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>49,50.</cell>
+                     <cell>25.</cell>
+                     <cell>21,22.</cell>
+                     <cell>12.</cell>
+                     <cell>14,15.</cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>Exod. 1,2.</cell>
+                     <cell>26.</cell>
+                     <cell>23,24.</cell>
+                     <cell>13.</cell>
+                     <cell>16,17.</cell>
+                     <cell>17.</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>3,4.</cell>
+                     <cell>27.</cell>
+                     <cell>25,26.</cell>
+                     <cell>14.</cell>
+                     <cell>18,19.</cell>
+                     <cell>18.</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>5,6.</cell>
+                     <cell>28.</cell>
+                     <cell>27. Num. 1.</cell>
+                     <cell>15.</cell>
+                     <cell>20,21.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>7,8,</cell>
+                     <cell>Mark. 1,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>22,23.</cell>
+                     <cell>20.</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>9,10.</cell>
+                     <cell>2.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>24,25.</cell>
+                     <cell>21.</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>11,12.</cell>
+                     <cell>3.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>26,27.</cell>
+                     <cell>Acts, 1.</cell>
+                  </row>
+               </table>
+               <pb facs="tcp:63954:4"/>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>April. G.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>May, B.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>June, E.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>28.29.</cell>
+                     <cell>2.</cell>
+                     <cell>5.6.</cell>
+                     <cell>4.</cell>
+                     <cell>12.13.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>30. 31</cell>
+                     <cell>3.</cell>
+                     <cell>7.8.</cell>
+                     <cell>5.</cell>
+                     <cell>14.15.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>32.33.</cell>
+                     <cell>4.</cell>
+                     <cell>9.10.</cell>
+                     <cell>6.</cell>
+                     <cell>16.17.</cell>
+                     <cell>5.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>34. Ioſh. 1.</cell>
+                     <cell>5.</cell>
+                     <cell>11.12.</cell>
+                     <cell>7.</cell>
+                     <cell>18.19.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>2.3.</cell>
+                     <cell>6.</cell>
+                     <cell>13.14.</cell>
+                     <cell>8.</cell>
+                     <cell>20.21.</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>4.5.</cell>
+                     <cell>7.</cell>
+                     <cell>15.16.</cell>
+                     <cell>9.</cell>
+                     <cell>22. 2 King. 1.</cell>
+                     <cell>8.</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>6.7.</cell>
+                     <cell>8.</cell>
+                     <cell>17.18.</cell>
+                     <cell>10.</cell>
+                     <cell>2.3.</cell>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>8.9.</cell>
+                     <cell>9.</cell>
+                     <cell>19.20.</cell>
+                     <cell>11.</cell>
+                     <cell>4.5.</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>10, 11.</cell>
+                     <cell>10.</cell>
+                     <cell>21.22.</cell>
+                     <cell>12.</cell>
+                     <cell>6, 7.</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>12. 13.</cell>
+                     <cell>11.</cell>
+                     <cell>23.24.</cell>
+                     <cell>13.</cell>
+                     <cell>8.9.</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>14.15.</cell>
+                     <cell>12.</cell>
+                     <cell>25.26.</cell>
+                     <cell>14.</cell>
+                     <cell>10.11.</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>16.17.</cell>
+                     <cell>13.</cell>
+                     <cell>27.28.</cell>
+                     <cell>15.</cell>
+                     <cell>12.13.</cell>
+                     <cell>Gal. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>18.19.</cell>
+                     <cell>14.</cell>
+                     <cell>29.30.</cell>
+                     <cell>16.</cell>
+                     <cell>14.15.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>14.</cell>
+                     <cell>20.21.</cell>
+                     <cell>15.</cell>
+                     <cell>31. 2. S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1.</cell>
+                     <cell>1. Cor. 1.</cell>
+                     <cell>16.17.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>22.23.</cell>
+                     <cell>16.</cell>
+                     <cell>2.3.</cell>
+                     <cell>2.</cell>
+                     <cell>18.19.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>24. Iudg. 1.</cell>
+                     <cell>17.</cell>
+                     <cell>4.5.</cell>
+                     <cell>3.</cell>
+                     <cell>20, 21.</cell>
+                     <cell>5.</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>2.3.</cell>
+                     <cell>18.</cell>
+                     <cell>6.7.</cell>
+                     <cell>4.</cell>
+                     <cell>22.23.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>4.5.</cell>
+                     <cell>19.</cell>
+                     <cell>8.9.</cell>
+                     <cell>5.</cell>
+                     <cell>24.25.</cell>
+                     <cell>Eph. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>6.7.</cell>
+                     <cell>20.</cell>
+                     <cell>10.11.</cell>
+                     <cell>6.</cell>
+                     <cell>1 Chr. 1.2.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>8.9.</cell>
+                     <cell>21.</cell>
+                     <cell>12.13.</cell>
+                     <cell>7.</cell>
+                     <cell>3.4.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>10.11.</cell>
+                     <cell>22.</cell>
+                     <cell>14.15.</cell>
+                     <cell>8.</cell>
+                     <cell>5.6.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>12.13.</cell>
+                     <cell>23.</cell>
+                     <cell>16.17.</cell>
+                     <cell>9.</cell>
+                     <cell>7.8.</cell>
+                     <cell>5.</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>14.15.</cell>
+                     <cell>24.</cell>
+                     <cell>18.16.</cell>
+                     <cell>10.</cell>
+                     <cell>9.10.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>16.17.</cell>
+                     <cell>25.</cell>
+                     <cell>20.21.</cell>
+                     <cell>11.</cell>
+                     <cell>11.12.</cell>
+                     <cell>Phil. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>18.19.</cell>
+                     <cell>26.</cell>
+                     <cell>22.23.</cell>
+                     <cell>12.</cell>
+                     <cell>13.14.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>20, 21.</cell>
+                     <cell>27.</cell>
+                     <cell>24. 1 King. 1.</cell>
+                     <cell>13.</cell>
+                     <cell>15.16.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>Ruth 1.2.</cell>
+                     <cell>28.</cell>
+                     <cell>2.3.</cell>
+                     <cell>14.</cell>
+                     <cell>17.18.</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>3.4.</cell>
+                     <cell>Rom. 1</cell>
+                     <cell>4.5.</cell>
+                     <cell>15.</cell>
+                     <cell>19.20.</cell>
+                     <cell>Coloſ. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>1 Sam. 1.2</cell>
+                     <cell>2.</cell>
+                     <cell>6.7.</cell>
+                     <cell>16.</cell>
+                     <cell>21.22.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>3.4.</cell>
+                     <cell>3.</cell>
+                     <cell>8.9.</cell>
+                     <cell>2 Cor. 1.</cell>
+                     <cell>23.24.</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10.11.</cell>
+                     <cell>2.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <pb facs="tcp:63954:4"/>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>Iuly G.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Auguſt C.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>September, F.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>25,26.</cell>
+                     <cell>4.</cell>
+                     <cell>12,13.</cell>
+                     <cell>9.</cell>
+                     <cell cols="2">25-29.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>27,28.</cell>
+                     <cell>1 Theſ. 1.</cell>
+                     <cell>Eſther 1,2.</cell>
+                     <cell>10.</cell>
+                     <cell cols="2">32-35.</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>29.</cell>
+                     <cell>2 Chr. 1.2.</cell>
+                     <cell>3,4.</cell>
+                     <cell>11.</cell>
+                     <cell cols="2">37-38.</cell>
+                     <cell>8.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>2,3.</cell>
+                     <cell>3.</cell>
+                     <cell>5,6.</cell>
+                     <cell>12.</cell>
+                     <cell cols="2">41-44.</cell>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>4 5.</cell>
+                     <cell>4.</cell>
+                     <cell>7,8.</cell>
+                     <cell>13.</cell>
+                     <cell cols="2">47-50.</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>6,7.</cell>
+                     <cell>5.</cell>
+                     <cell>9,10.</cell>
+                     <cell>Jam. 1.</cell>
+                     <cell cols="2">53-56.</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>8,9.</cell>
+                     <cell>2 Theſ. 1.</cell>
+                     <cell>Iob. 1,2.</cell>
+                     <cell>2.</cell>
+                     <cell cols="2">59-62.</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>10,11.</cell>
+                     <cell>2.</cell>
+                     <cell>3,4.</cell>
+                     <cell>3.</cell>
+                     <cell cols="2">65-68.</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>12,13.</cell>
+                     <cell>3.</cell>
+                     <cell>5,6.</cell>
+                     <cell>4.</cell>
+                     <cell cols="2">69.70.</cell>
+                     <cell>14.</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>14,15.</cell>
+                     <cell>1 Tim. 1.</cell>
+                     <cell>7,8.</cell>
+                     <cell>5.</cell>
+                     <cell cols="2">72-74.</cell>
+                     <cell>15.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>16,17.</cell>
+                     <cell>2.</cell>
+                     <cell>9,10.</cell>
+                     <cell>1 Pet. 1.</cell>
+                     <cell cols="2">76-78.</cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>18,19.</cell>
+                     <cell>3.</cell>
+                     <cell>11,12.</cell>
+                     <cell>2.</cell>
+                     <cell cols="2">79-82.</cell>
+                     <cell>17.</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>20,21.</cell>
+                     <cell>4.</cell>
+                     <cell>13,14.</cell>
+                     <cell>3.</cell>
+                     <cell cols="2">86-89.</cell>
+                     <cell>18.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>22,23.</cell>
+                     <cell>5.</cell>
+                     <cell>15,16.</cell>
+                     <cell>4.</cell>
+                     <cell cols="2">90-93.</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>24,25.</cell>
+                     <cell>6.</cell>
+                     <cell>17,18.</cell>
+                     <cell>5.</cell>
+                     <cell cols="2">97-102.</cell>
+                     <cell>20.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>26,27.</cell>
+                     <cell>2 Tim. 1.</cell>
+                     <cell>19,20.</cell>
+                     <cell>2 Pet. 1.</cell>
+                     <cell cols="2">104-106.</cell>
+                     <cell>21.</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>28,29.</cell>
+                     <cell>2.</cell>
+                     <cell>21,22.</cell>
+                     <cell>2.</cell>
+                     <cell cols="2">107-109.</cell>
+                     <cell>22.</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>30,31.</cell>
+                     <cell>3.</cell>
+                     <cell>23,24.</cell>
+                     <cell>3.</cell>
+                     <cell cols="3">112-116-119. 1. p<hi rend="sup">rt</hi>.</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>32,33.</cell>
+                     <cell>4.</cell>
+                     <cell>25,26.</cell>
+                     <cell>1 Ioh. 1.</cell>
+                     <cell cols="3">7. p. 13. p. 18. p.</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>34,35.</cell>
+                     <cell>Tit. 1.</cell>
+                     <cell>27,28.</cell>
+                     <cell>2.</cell>
+                     <cell cols="3">120-125-130</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>36, Ezr. 1.</cell>
+                     <cell>2.</cell>
+                     <cell>29,30.</cell>
+                     <cell>3.</cell>
+                     <cell cols="3">135-137-140</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>2,3.</cell>
+                     <cell>3.</cell>
+                     <cell>31,32.</cell>
+                     <cell>4.</cell>
+                     <cell cols="2">144-147.</cell>
+                     <cell>Prov. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>4,5.</cell>
+                     <cell>Phil. 1.</cell>
+                     <cell>33,34.</cell>
+                     <cell>5.</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>6,7.</cell>
+                     <cell>Heb. 1.</cell>
+                     <cell>35,36.</cell>
+                     <cell>2 Ioh. 1.</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>8,9.</cell>
+                     <cell>2</cell>
+                     <cell>37,38.</cell>
+                     <cell>3 Ioh. 1.</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>10. Neh. 1.</cell>
+                     <cell>3.</cell>
+                     <cell>39,40.</cell>
+                     <cell>Iude 1.</cell>
+                     <cell>11,</cell>
+                     <cell>12,</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>1,<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</cell>
+                     <cell>4.</cell>
+                     <cell>41,42.</cell>
+                     <cell>Revel. 1.</cell>
+                     <cell>14,</cell>
+                     <cell>15,</cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>4,5.</cell>
+                     <cell>5.</cell>
+                     <cell>Pſ. 1. to 5. to</cell>
+                     <cell>2.</cell>
+                     <cell>17,</cell>
+                     <cell>18,</cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>6,7.</cell>
+                     <cell>6.</cell>
+                     <cell>9. to 11. to</cell>
+                     <cell>3.</cell>
+                     <cell>20,</cell>
+                     <cell>21,</cell>
+                     <cell>22.</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>8,9.</cell>
+                     <cell>7.</cell>
+                     <cell>15-18.</cell>
+                     <cell>4.</cell>
+                     <cell>23,</cell>
+                     <cell>24,</cell>
+                     <cell>25.</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>10,11.</cell>
+                     <cell>8.</cell>
+                     <cell>19-22.</cell>
+                     <cell>5.</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+               <pb facs="tcp:63954:5"/>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">
+                        <hi>October, A.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Novemb. D.</hi>
+                     </cell>
+                     <cell role="label" cols="3">
+                        <hi>Decemb. F.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>26,</cell>
+                     <cell>27,</cell>
+                     <cell>28.</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                     <cell>35,</cell>
+                     <cell>36,</cell>
+                     <cell>37.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>29,</cell>
+                     <cell>30,</cell>
+                     <cell>31.</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                     <cell>38,</cell>
+                     <cell>39,</cell>
+                     <cell>40.</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Eccl. 1,</cell>
+                     <cell>2,</cell>
+                     <cell>3.</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                     <cell>41,</cell>
+                     <cell>42,</cell>
+                     <cell>43.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>4,</cell>
+                     <cell>5,</cell>
+                     <cell>6.</cell>
+                     <cell>11,</cell>
+                     <cell>12,</cell>
+                     <cell>13.</cell>
+                     <cell>44,</cell>
+                     <cell>45,</cell>
+                     <cell>46.</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>7,</cell>
+                     <cell>8,</cell>
+                     <cell>9.</cell>
+                     <cell>14,</cell>
+                     <cell>15,</cell>
+                     <cell>16.</cell>
+                     <cell>47,</cell>
+                     <cell>48.</cell>
+                     <cell>Dan. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>10,</cell>
+                     <cell>11,</cell>
+                     <cell>12.</cell>
+                     <cell>17,</cell>
+                     <cell>18,</cell>
+                     <cell>19.</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>Cant. 1,</cell>
+                     <cell>2,</cell>
+                     <cell>3.</cell>
+                     <cell>20,</cell>
+                     <cell>21,</cell>
+                     <cell>22</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>4,</cell>
+                     <cell>5,</cell>
+                     <cell>6.</cell>
+                     <cell>23,</cell>
+                     <cell>24,</cell>
+                     <cell>25.</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>7,</cell>
+                     <cell>8.</cell>
+                     <cell>Iſai. 1.</cell>
+                     <cell>26,</cell>
+                     <cell>27,</cell>
+                     <cell>28.</cell>
+                     <cell>11,</cell>
+                     <cell>12.</cell>
+                     <cell>Hos. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                     <cell>29,</cell>
+                     <cell>30,</cell>
+                     <cell>31</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                     <cell>32,</cell>
+                     <cell>33,</cell>
+                     <cell>34.</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                     <cell>35,</cell>
+                     <cell>36,</cell>
+                     <cell>37.</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>11,</cell>
+                     <cell>12,</cell>
+                     <cell>13.</cell>
+                     <cell>38,</cell>
+                     <cell>39,</cell>
+                     <cell>40.</cell>
+                     <cell>11,</cell>
+                     <cell>12,</cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>14,</cell>
+                     <cell>15,</cell>
+                     <cell>16.</cell>
+                     <cell>41,</cell>
+                     <cell>42,</cell>
+                     <cell>43.</cell>
+                     <cell>14.</cell>
+                     <cell>Ioel, 1,</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>17,</cell>
+                     <cell>18,</cell>
+                     <cell>19.</cell>
+                     <cell>44,</cell>
+                     <cell>45,</cell>
+                     <cell>46</cell>
+                     <cell>3.</cell>
+                     <cell>Amos. 1,</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>20,</cell>
+                     <cell>21,</cell>
+                     <cell>22.</cell>
+                     <cell>47,</cell>
+                     <cell>48,</cell>
+                     <cell>49.</cell>
+                     <cell>3,</cell>
+                     <cell>4,</cell>
+                     <cell>5.</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>23,</cell>
+                     <cell>24,</cell>
+                     <cell>25.</cell>
+                     <cell>50,</cell>
+                     <cell>51,</cell>
+                     <cell>52.</cell>
+                     <cell>6,</cell>
+                     <cell>7,</cell>
+                     <cell>8.</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>26,</cell>
+                     <cell>27,</cell>
+                     <cell>28</cell>
+                     <cell>Lament. 1,</cell>
+                     <cell>2,</cell>
+                     <cell>3</cell>
+                     <cell>9.</cell>
+                     <cell>Obad. 1.</cell>
+                     <cell>Ion. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>29,</cell>
+                     <cell>30,</cell>
+                     <cell>31.</cell>
+                     <cell>4,</cell>
+                     <cell>5.</cell>
+                     <cell>Ezek. 1.</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4,</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>32,</cell>
+                     <cell>33,</cell>
+                     <cell>34.</cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                     <cell>Mic. 1</cell>
+                     <cell>2,</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>35,</cell>
+                     <cell>36,</cell>
+                     <cell>37.</cell>
+                     <cell>5,</cell>
+                     <cell>6,</cell>
+                     <cell>7.</cell>
+                     <cell>4,</cell>
+                     <cell>5,</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>38,</cell>
+                     <cell>39,</cell>
+                     <cell>40.</cell>
+                     <cell>8,</cell>
+                     <cell>9,</cell>
+                     <cell>10.</cell>
+                     <cell>7.</cell>
+                     <cell>Nah. 1,</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>41,</cell>
+                     <cell>42,</cell>
+                     <cell>43.</cell>
+                     <cell>11,</cell>
+                     <cell>12,</cell>
+                     <cell>13.</cell>
+                     <cell>3.</cell>
+                     <cell>Habac. 1.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>44,</cell>
+                     <cell>45,</cell>
+                     <cell>46.</cell>
+                     <cell>14,</cell>
+                     <cell>15,</cell>
+                     <cell>16.</cell>
+                     <cell>3.</cell>
+                     <cell>Zephan. 1,</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>47,</cell>
+                     <cell>48,</cell>
+                     <cell>49.</cell>
+                     <cell>17,</cell>
+                     <cell>18,</cell>
+                     <cell>19.</cell>
+                     <cell>3.</cell>
+                     <cell>Haggai, 1,</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>50,</cell>
+                     <cell>51,</cell>
+                     <cell>52.</cell>
+                     <cell>20,</cell>
+                     <cell>21,</cell>
+                     <cell>22.</cell>
+                     <cell>Zach. 1,</cell>
+                     <cell>2,</cell>
+                     <cell>3.</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>53,</cell>
+                     <cell>54,</cell>
+                     <cell>55.</cell>
+                     <cell>23,</cell>
+                     <cell>24,</cell>
+                     <cell>25.</cell>
+                     <cell>4,</cell>
+                     <cell>5,</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>56,</cell>
+                     <cell>57,</cell>
+                     <cell>58.</cell>
+                     <cell>26,</cell>
+                     <cell>27,</cell>
+                     <cell>28.</cell>
+                     <cell>7.</cell>
+                     <cell>8,</cell>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>59,</cell>
+                     <cell>60,</cell>
+                     <cell>61.</cell>
+                     <cell>29.</cell>
+                     <cell>30,</cell>
+                     <cell>31.</cell>
+                     <cell>10,</cell>
+                     <cell>11</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>62,</cell>
+                     <cell>63,</cell>
+                     <cell>64.</cell>
+                     <cell>32,</cell>
+                     <cell>33,</cell>
+                     <cell>34.</cell>
+                     <cell>13,</cell>
+                     <cell>14.</cell>
+                     <cell>Mal. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>65,</cell>
+                     <cell>66.</cell>
+                     <cell>Ier. 1.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2,</cell>
+                     <cell>3,</cell>
+                     <cell>4.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Oxford,</hi> Printed by <hi>L. L.</hi> 1647.</p>
+            <pb facs="tcp:63954:5" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
